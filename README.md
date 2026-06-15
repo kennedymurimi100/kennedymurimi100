@@ -16,5 +16,4 @@
 
 ## How to Reach Me
 - Email: [sprtajacklee@gmail.com]
-
 - Linkedin: [www.linkedin.com/in/kennedy-murimi-878b02197]

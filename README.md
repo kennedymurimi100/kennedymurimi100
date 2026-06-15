@@ -1,4 +1,4 @@
-# Hi, I'm "kennedyMurimi100'
+# Hi, I'm "kennedyMurimi100"
 
 ## About Me
 - Currently learning at we can academy as a computer science student
@@ -16,4 +16,4 @@
 
 ## How to Reach Me
 - Email: [sprtajacklee@gmail.com]
-- Linkedin: [www.linkedin.com/in/kennedy-murimi-878b02197]
+- LinkedIn: [www.linkedin.com/in/kennedy-murimi-878b02197]

@@ -9,8 +9,11 @@
 
 ## Skills I'm Building
 -Git and GitHub
+
 -Java script
+
 -Basic Version Control
+
 -Merge Conflicts Resolving
 
 ## Current Projects
@@ -18,4 +21,5 @@
 
 ## How to Reach Me
 -Email: [sprtajacklee@gmail.com]
+
 -Linkedin: [www.linkedin.com/in/kennedy-murimi-878b02197]

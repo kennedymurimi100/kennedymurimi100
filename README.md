@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [kennedyMurimi100]
 
-<!--
-**kennedymurimi100/kennedymurimi100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+-Currently learning at we can academy as a computer science student .
+-I'm intrested in ["Gaming Development, data science and profile managing"].
+-I'm looking to collaborate in ["beginner-friendly open source projects"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+-Git and GitHub
+-java script
+-Basic Version Control
+-Merge Conflicts Resolving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Current Projects
+-Elements
+
+##How to Reach Me
+-Email: [sprtajacklee@gmail.com]
+-Linkedin: [www.linkedin.com/in/kennedy-murimi-878b02197]

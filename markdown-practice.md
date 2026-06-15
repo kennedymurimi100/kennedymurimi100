@@ -1,21 +1,24 @@
 ## My Learning Goals
-- Syntax Mastery
+-----------------------
+- Syntax mastery refers to developing a deep, intuitive understanding of a programming language's rules, structure, and conventions. It goes beyond memorizing syntax—it's about understanding why the syntax works the way it does and being able to write clean, efficient, and readable code.
 
 ### This Semester
+----------------------
+- This semester, focus on mastering the core **syntax** and fundamentals of your chosen programming language, building *practical* projects to reinforce concepts, and developing professional coding practices that will prepare you for real-world `development` work.
 
-Become  a **master** in at *least* one programming language knowing this i can see `proficiency` on it you can see this through,
+
 
 [My GitHub Profile](https://github.com/kennedymurimi100)
 [Discord](https://discord.com/)
 
 Unordered List of things I want to learn
 ----------------------------------------
-- Branching & Merging .
+- Branching  .
   
-- Commit Messages & Best Practices ,
+- Commit Messages & Best Practices 
   - Writing clear, descriptive commit messages and following project conventions
     
-- Git Basics - Understanding version control concepts, repositories, and the fundamental workflow. 
+- Git Basics - Understanding version control concepts, repositories, and the fundamental workflow... . 
 
 
 Ordered List of steps on making a commit in Git

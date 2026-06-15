@@ -1,13 +1,13 @@
-# Hi, I'm [kennedyMurimi100]
+# Hi, I'm kennedyMurimi100
 
 ## About Me
--Currently learning at we can academy as a computer science student .
--I'm intrested in ["Gaming Development, data science and profile managing"].
--I'm looking to collaborate in ["beginner-friendly open source projects"].
+-Currently learning at we can academy as a computer science student 
+-I'm interested in Gaming Development, data science and profile managing
+-I'm looking to collaborate in beginner-friendly open source projects
 
 ## Skills I'm Building
 -Git and GitHub
--java script
+-Java script
 -Basic Version Control
 -Merge Conflicts Resolving
 

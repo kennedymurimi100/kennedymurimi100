@@ -3,13 +3,12 @@
 
 ### This Semester
 
-Become **proficient** in at *least* one programming language knowing this i can see `proficiency` on it
-you can see this through,
+Become  a **master** in at *least* one programming language knowing this i can see `proficiency` on it you can see this through,
 
 [My GitHub Profile](https://github.com/kennedymurimi100)
 [Discord](https://discord.com/)
 
-Unordered List of things I want o learn
+Unordered List of things I want to learn
 ----------------------------------------
 - Branching & Merging .
   

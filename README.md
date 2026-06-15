@@ -11,9 +11,9 @@
 -Basic Version Control
 -Merge Conflicts Resolving
 
-##Current Projects
+## Current Projects
 -Elements
 
-##How to Reach Me
+## How to Reach Me
 -Email: [sprtajacklee@gmail.com]
 -Linkedin: [www.linkedin.com/in/kennedy-murimi-878b02197]
